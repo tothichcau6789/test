@@ -144,6 +144,18 @@ http://123.245.64.65:4040/udp/239.33.4.121:21210
 http://123.245.64.65:4040/udp/239.33.4.237:22370
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁公共
 http://123.245.64.65:4040/udp/239.33.4.122:21220
+#EXTINF:-1 tvg-name="辽宁青少" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁青少
+http://123.245.64.65:4040/udp/239.33.4.233:22330
+#EXTINF:-1 tvg-name="辽宁移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁移动
+http://123.245.64.65:4040/udp/239.33.4.235:22350
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 
