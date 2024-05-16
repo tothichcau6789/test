@@ -250,18 +250,24 @@ http://123.245.64.65:4040/udp/239.33.4.24:20240
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",沈阳新闻综合
 http://123.245.64.65:4040/udp/239.33.4.123:21230
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",浙江卫视
-http://123.245.64.65:4040/udp/239.33.5.51:23070
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",天津卫视
-http://123.245.64.65:4040/udp/239.33.5.22:22780
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",东方卫视
-http://123.245.64.65:4040/udp/239.33.5.24:22800
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",北京kaku少儿
+http://123.245.64.65:4040/udp/239.33.4.240:22400
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",证券服务
+http://123.245.64.65:4040/udp/239.33.4.222:22220
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",新动漫
+http://123.245.64.65:4040/udp/239.33.4.34:20340
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",茶频道
+http://123.245.64.65:4040/udp/239.33.5.70:23260
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",city都市剧场
+http://123.245.64.65:4040/udp/239.33.5.95:23510
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",金色学堂
+http://123.245.64.65:4040/udp/239.33.5.90:23460
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",梨园频道
+http://123.245.64.65:4040/udp/239.33.4.212:22120
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",文物宝库
+http://123.245.64.65:4040/udp/239.33.4.214:22140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",武术世界
+http://123.245.64.65:4040/udp/239.33.4.213:22130
 
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="卫视频道",财富天下
 
