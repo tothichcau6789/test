@@ -250,8 +250,9 @@ http://123.245.64.65:4040/udp/239.33.4.24:20240
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",沈阳新闻综合
 http://123.245.64.65:4040/udp/239.33.4.123:21230
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",北京卫视
-http://123.245.64.65:4040/udp/239.33.5.21:22770
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",浙江卫视
+http://123.245.64.65:4040/udp/239.33.5.51:23070
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",天津卫视
 http://123.245.64.65:4040/udp/239.33.5.22:22780
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",东方卫视
