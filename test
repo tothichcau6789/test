@@ -248,6 +248,20 @@ http://123.245.64.65:4040/udp/239.33.5.92:23480
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="卫视频道",家庭理财
 http://123.245.64.65:4040/udp/239.33.4.24:20240
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",沈阳新闻综合
+http://123.245.64.65:4040/udp/239.33.4.123:21230
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",北京卫视
+http://123.245.64.65:4040/udp/239.33.5.21:22770
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",天津卫视
+http://123.245.64.65:4040/udp/239.33.5.22:22780
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",东方卫视
+http://123.245.64.65:4040/udp/239.33.5.24:22800
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="卫视频道",财富天下
 
 #EXTINF:-1 tvg-name="弈坛春秋" tvg-logo="https://live.fanmingming.com/tv/弈坛春秋.png" group-title="卫视频道",弈坛春秋
