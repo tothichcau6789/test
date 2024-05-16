@@ -60,10 +60,11 @@ http://123.245.64.65:4040/udp/239.33.5.102:23580
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
 
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
-
+http://123.245.64.65:4040/udp/239.33.4.207:22070
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
-
+http://123.245.64.65:4040/udp/239.33.4.210:22100
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
+http://123.245.64.65:4040/udp/239.33.4.209:22090
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
 
