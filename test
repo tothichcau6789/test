@@ -129,8 +129,6 @@ http://123.245.64.65:4040/udp/239.33.5.55:23110
 
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://123.245.64.65:4040/udp/239.33.5.71:23270
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://123.245.64.65:4040/udp/239.33.5.24:22800
 
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://123.245.64.65:4040/udp/239.33.5.1:22570
