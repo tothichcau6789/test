@@ -197,7 +197,28 @@ http://line.statictv.ink:80/9492eb8ad4/f5324b21e9/1458811
 
 
 
-
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG HEVC FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/BLOOMBERG.png" group-title="UK| KIDS HEVC",UK| BLOOMBERG HEVC FHD
+http://line.statictv.ink:80/9492eb8ad4/f5324b21e9/1458593
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG  HEVC HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/BLOOMBERG.png" group-title="UK| KIDS HEVC",UK| BLOOMBERG  HEVC HD
+http://line.statictv.ink:80/9492eb8ad4/f5324b21e9/1458588
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK| CARTOON NETWORK  HEVC FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/CARTOON-NETWORK.png" group-title="UK| KIDS HEVC",UK| CARTOON NETWORK  HEVC FHD
+http://line.statictv.ink:80/9492eb8ad4/f5324b21e9/1458592
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK| CARTOON NETWORK HEVC HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/CARTOON-NETWORK.png" group-title="UK| KIDS HEVC",UK| CARTOON NETWORK HEVC HD
+http://line.statictv.ink:80/9492eb8ad4/f5324b21e9/1458587
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK| NICK HEVC FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/NICK.png" group-title="UK| KIDS HEVC",UK| NICK HEVC FHD
+http://line.statictv.ink:80/9492eb8ad4/f5324b21e9/1458591
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK| NICK HEVC HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/NICK.png" group-title="UK| KIDS HEVC",UK| NICK HEVC HD
+http://line.statictv.ink:80/9492eb8ad4/f5324b21e9/1458586
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK| NICK JR HEVC FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/NICK-JR.png" group-title="UK| KIDS HEVC",UK| NICK JR HEVC FHD
+http://line.statictv.ink:80/9492eb8ad4/f5324b21e9/1458590
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK| NICK JR HEVC HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/NICK-JR.png" group-title="UK| KIDS HEVC",UK| NICK JR HEVC HD
+http://line.statictv.ink:80/9492eb8ad4/f5324b21e9/1458585
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY KIDS HEVC FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/sky-kids.png" group-title="UK| KIDS HEVC",UK| SKY KIDS HEVC FHD
+http://line.statictv.ink:80/9492eb8ad4/f5324b21e9/1458584
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY KIDS HEVC HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/sky-kids.png" group-title="UK| KIDS HEVC",UK| SKY KIDS HEVC HD
+http://line.statictv.ink:80/9492eb8ad4/f5324b21e9/1458583
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="UK| MTV HEVC FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/MTV.png" group-title="UK| GENERAL HEVC",UK| MTV HEVC FHD
+http://line.statictv.ink:80/9492eb8ad4/f5324b21e9/1458548
 
 
 
