@@ -1,29 +1,29 @@
 #EXTM3U x-tvg-url="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/epg.xml"
 
 
-#EXTINF:-1 ,CCTV-兵器科技
+#EXTINF:-1 group-title="PLAY SPORTS⭐" ,CCTV-兵器科技
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 ,CCTV-世界地理
+#EXTINF:-1 group-title="PLAY SPORTS⭐" ,CCTV-世界地理
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1 ,CCTV-文化精品
+#EXTINF:-1 group-title="PLAY SPORTS⭐" ,CCTV-文化精品
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 ,CCTV-怀旧剧场
+#EXTINF:-1 group-title="PLAY SPORTS⭐" ,CCTV-怀旧剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 ,CCTV-风云剧场
+#EXTINF:-1 group-title="PLAY SPORTS⭐" ,CCTV-风云剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 ,CCTV-风云音乐
+#EXTINF:-1 group-title="PLAY SPORTS⭐" ,CCTV-风云音乐
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 ,CCTV-第一剧场
+#EXTINF:-1 group-title="PLAY SPORTS⭐" ,CCTV-第一剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 ,CCTV-风云足球
+#EXTINF:-1 group-title="PLAY SPORTS⭐" ,CCTV-风云足球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 ,CCTV-女性时尚
+#EXTINF:-1 group-title="PLAY SPORTS⭐" ,CCTV-女性时尚
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 ,CCTV-电视指南
+#EXTINF:-1 group-title="PLAY SPORTS⭐" ,CCTV-电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 ,CCTV-央视台球
+#EXTINF:-1 group-title="PLAY SPORTS⭐" ,CCTV-央视台球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 ,CCTV-央视高网
+#EXTINF:-1 group-title="PLAY SPORTS⭐" ,CCTV-央视高网
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 
 
